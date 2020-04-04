@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.abdul.backend"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "back",
+    "packageName": "com.abdul.backend",
+    "packageFolder": "com/abdul/backend",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzYwODI2YTE0YzIwMmZmZTgxOWMzMTU1OWM2NjAxNmUyNTY1MDFkYzdlMWNlYTg2ZmY1Yjg3OTdmYzU3NWQ3ZWQ4YWRhNjY3NzY4NGNiZDE3ZTNmMjY1YjFlZWVlMzk1YWJkYjhjMWUyNDllZDA4ZWIwYmQ2Y2M5MTNmM2MxYTk=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
